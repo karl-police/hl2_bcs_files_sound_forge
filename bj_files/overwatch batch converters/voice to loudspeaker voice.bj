@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<BatchJob xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProcessList>
+    <Preset>
+      <OwnerNameText>VEGAS Paragraphic EQ</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>aAAAAO/zFtYi1s4RqsUAIK8LmaMG////wP///wAAAAAAAAAAqAAAAAAAAAAKAAAAFQAAAAUAAAAKAAAAZAAAACcAAACCAwAAiBMAAAEAAAABAAAAkQIAAPYEAAAG////Bv///wIAAAA=</PresetData>
+      <PresetOwner>d616f3e0-d622-11ce-aac5-0020af0b99a3</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>VEGAS Reverb</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>RAAAACf3ULT76DRPtTvMMKGMF6Co////2/7//37+//8CAAAACAAAABUAAAB6AAAAAQAAACQAAAABAAAADgkAAAAAAAA=</PresetData>
+      <PresetOwner>607682e0-6e21-11d0-aebc-00a0c9053912</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>Normalize</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>CAAAAAEAAAAWWFLXfNvPPwAAAAABAAAA3x4kgJMIdz8AAAAAAABpQAAAAAAAAGlAAAAAAAAAAAAAAAAAQKjnP9TXOFlAbTDAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</PresetData>
+      <PresetOwner>Normalize</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+  </ProcessList>
+  <RenderList />
+  <MetadataSet />
+</BatchJob>

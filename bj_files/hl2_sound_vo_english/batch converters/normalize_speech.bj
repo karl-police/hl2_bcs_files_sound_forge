@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<BatchJob xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProcessList>
+    <Preset>
+      <OwnerNameText>Normalize</OwnerNameText>
+      <PresetName> HL2 speech -8.00 dB</PresetName>
+      <PresetData>CAAAAAEAAACyJHV/lnrZPwAAAAABAAAA3x4kgJMIdz8AAAAAAGBnQAAAAAAAAGlAAAAAAAAAAAAAAAAAAADwvwAAAAAAAPC/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</PresetData>
+      <PresetOwner>Normalize</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>VEGAS Noise Gate</OwnerNameText>
+      <PresetName>HL2 Speech -30 dB gate</PresetName>
+      <PresetData>IAAAAEOP36b0utARrrwAoMkFORIDAAAAZAAAANT+//8=</PresetData>
+      <PresetOwner>b97c0f23-196d-11d1-b99b-00a0c9053912</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+  </ProcessList>
+  <RenderList />
+  <MetadataSet />
+</BatchJob>

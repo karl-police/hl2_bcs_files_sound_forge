@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<BatchJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProcessList>
+    <Preset>
+      <OwnerNameText>Bit-Depth Converter</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>EAAAAAAAAAAAAAAA</PresetData>
+      <PresetOwner>Bit-Depth Converter</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+  </ProcessList>
+  <RenderList />
+  <MetadataSet />
+</BatchJob>

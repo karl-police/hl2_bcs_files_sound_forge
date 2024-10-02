@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<BatchJob xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProcessList>
+    <Preset>
+      <OwnerNameText>VEGAS Time Stretch</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>NAAAAKS09V+PhdARrrwAoMkFORIAAAAAAGjAQAYAAADgLgAAAAAAAAAAAAAAAAAAAAAAAA==</PresetData>
+      <PresetOwner>b97c0f22-196d-11d1-b99b-00a0c9053912</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>VEGAS Distortion</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>PAIAAENFIjmSb9ARrrwAoMkFORIAAAAAkAEAAFf///8CAAAAAAAAAGQAAAABAAAAAQAAAAUAAAC4/P//uPz//0j+//+s/v//EP///6z+//8Q////dP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAALj8//+4/P//SP7//6z+//8Q////rP7//xD///90////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</PresetData>
+      <PresetOwner>39224540-6f92-11d0-aebc-00a0c9053912</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>VEGAS Paragraphic EQ</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>aAAAAO/zFtYi1s4RqsUAIK8LmaMG////wP///wf///8AAAAARgAAAAb///8KAAAAFQAAAAkAAAAKAAAAMwEAACcAAAAWBAAA5BIAAAEAAAABAAAAkQIAADgJAAAG////Bv///wMAAAA=</PresetData>
+      <PresetOwner>d616f3e0-d622-11ce-aac5-0020af0b99a3</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+    <Preset>
+      <OwnerNameText>Normalize</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>CAAAAAEAAAAWWFLXfNvPPwAAAAABAAAA3x4kgJMIdz8AAAAAAABpQAAAAAAAAGlAAAAAAAAAAAAAAAAAAADwvwAAAAAAAPC/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</PresetData>
+      <PresetOwner>Normalize</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+  </ProcessList>
+  <RenderList />
+  <MetadataSet />
+</BatchJob>

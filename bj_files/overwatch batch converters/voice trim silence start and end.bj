@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<BatchJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProcessList>
+    <Preset>
+      <OwnerNameText>Auto Trim/Crop</OwnerNameText>
+      <PresetName>(Untitled)</PresetName>
+      <PresetData>AAAAACfy///K8f//FAAAABQAAAAAAAAAAAAAAA==</PresetData>
+      <PresetOwner>Auto Trim/Crop</PresetOwner>
+      <OutPreserveSubfolders>false</OutPreserveSubfolders>
+    </Preset>
+  </ProcessList>
+  <RenderList />
+  <MetadataSet />
+</BatchJob>
