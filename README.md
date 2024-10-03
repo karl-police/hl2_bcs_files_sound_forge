@@ -4,7 +4,7 @@ If you stumbled here through Google while looking for what these ``.bcs`` file a
 
 This is an export from **Sonic Foundry Batch Converter** ``.bcs`` format to **SOUND FORGE Pro 12** ``.bj``
 
-![Image](https://i.imgur.com/fQsJeo0.png)
+<img src="https://i.imgur.com/fQsJeo0.png" height=380px/>
 
 You can use these files inside SOUND FORGE applications.
 
@@ -15,4 +15,4 @@ The files were manually converted. I used to do it once, but from visually. Late
 While some ``.bcs`` Plugins don't match the newer ones, the _"HEX copy paste"_ method, didn't work on all well, luckily it wasn't any _"Analog gambling-guessing"_ values,
 so I could easily match it exactly to the original ones. 
 
-![Image Conversion](https://i.imgur.com/jgHceMi.png)
+<img src="https://i.imgur.com/jgHceMi.png" height=150px/>
