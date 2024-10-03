@@ -1,4 +1,4 @@
-# Batch Job Files made through the ``.bcs`` files from Half-Life 2
+## Batch Job Files made through the ``.bcs`` files from Half-Life 2
 
 If you stumbled here through Google while looking for what these ``.bcs`` file are and how to open them. Then yes, this Repository is exactly what you think it is.
 
